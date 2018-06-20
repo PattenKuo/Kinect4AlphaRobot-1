@@ -3,7 +3,7 @@
 ## 基于Kinect 2.0 与 Alpha 1s 阿尔法机器人的体感控制开发
 ![Kinect4AlphaRobot logo](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/logo.jpg)
 
-您好! 我是 **创客机械羊**，[广州创客节](http://maker-gz.com) 的官方指定吉祥物。^_^
+您好! 我是 **创客机械羊**，[广州创客节](https://maker.6cit.com) 的官方指定吉祥物。^_^
 项目是两位第二届创客成员@Cheman @JYang 完成。
 
 ### 项目说明
