@@ -23,11 +23,45 @@
 ![kinect2.0](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220645of84nu2lf522f2fs.jpg)
 ![alpha1s](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/220646aisiujmhc7u2e3lc.jpg)
 
+BLE蓝牙4.0串口模块 [购买链接：【1】带底板HC-05主从机一体蓝牙模块 无线串口透传通讯 兼容arduino https://item.taobao.com/item.htm?spm=a230r.1.14.62.55cc54ccJ5Dicz&id=39244262350&ns=1&abbucket=15#detail
 
-* BLE蓝牙4.0串口模块
-* Kinect One 2.0（可同时记录6个人的20个关节点）
-* Alpha 1s 阿尔法机器人（16个自由度）
-* Win8系统以上的主机（支持USB3.0+内存在4G以上）
+【2】CH340G代替PL2303 USB转TTL 转串口 中九升级小板 刷机线 STC下载https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16248799899.14.5ec6546ewcZDPA&id=17817178269]
+
+
+
+Kinect One 2.0（可同时记录6个人的20个关节点）[XBOX ONE/S Kinect 2.0感应器 开发高清体感摄像头 Kinect体感器https://item.jd.com/11466539367.html?jd_pop=ba27070e-17ed-489b-900c-178a9b63ff51&abt=0]
+
+
+
+Alpha 1s 阿尔法机器人（16个自由度）[https://item.jd.com/10536803062.html]
+
+
+
+Win8系统以上的主机（支持USB3.0+内存在4G以上）[https://item.jd.com/3879331.html]
+
+
+
+开发环境搭建：
+
+1、找一台Win8系统以上的主机（支持USB3.0+内存在4G以上）
+
+2、安装Kinect开发环境 http://www.microsoft.com/en-us/download/details.aspx?id=44561 完成后插入Kinect设备看是否正常 
+
+3、安装.net framework 与  visual studio 开发环境  【1】https://www.microsoft.com/en-us/download/details.aspx?id=17851 【2】  https://visualstudio.microsoft.com/ 
+
+4、打开vs ,  导入项目工程文件
+
+5、按淘宝买来的蓝牙模块组装后，按附带的教程，测试蓝牙发射模块是否可行
+
+6、去优必优官网下载蓝牙控制指令文档【1】蓝牙控制指令文档 https://assets-new.ubtrobot.com/Alpha%201%20%E7%B3%BB%E5%88%97%E8%93%9D%E7%89%99%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE.pdf?download 【2】用户使用说明书 https://assets-new.ubtrobot.com/Alpha%201S%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf?download
+
+
+
+7、确定可以通过PC发送指令给机器人，机器人能动
+
+8、核实蓝牙模块插的USB口与代码里的一致
+
+9、运行项目程序 （应该有动作了，祝你好运），也可以自己打包生成BIN文件  ，下次直接双击运行就可了，因为代码目录里的BIN文件是基于我的电脑环境的，所以在你的电脑可能会不行，USB口一致性的问题，也可以在VS里下载个打包插件，这样能生成EXE，也是可以的
 
 ### 开发软件环境
 * Kinect for Windows  SDK  2.0(附带kinect browser与kinect studio)
