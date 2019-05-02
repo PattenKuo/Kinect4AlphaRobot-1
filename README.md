@@ -1,7 +1,6 @@
 
 # Kinect4AlphaRobot
 ## 基于Kinect 2.0 与 Alpha 1s 阿尔法机器人的体感控制开发
-![Kinect4AlphaRobot logo](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/logo.jpg)
 
 项目是两位成员@Cheman @JYang 完成。
 
@@ -138,8 +137,8 @@ tan值的 + 与 –  区域正好可表达角度是大于90度还是小于90度�
 同样道理，当手向前水平合拢时，肩部关节点shoulder基本不变，通过X与Z轴求得手臂在肩部点前后转动的角度，方法与公式就不再详细说明。
 
 #### 勾搭我们
-* 源码下载: https://pan.baidu.com/s/1QhgRVvdSvVda4KcqQjuITw 
-* 微信：
+* 源码下载: https://pan.baidu.com/s/1QhgRVvdSvVda4KcqQjuITw (源码不开源，需付费)
+* 微信：https://raw.githubusercontent.com/liuchaowen/Kinect4AlphaRobot/master/readme-img/WechatIMG89.jpeg
 * E-mail：cheman@6cit.com
 
 
