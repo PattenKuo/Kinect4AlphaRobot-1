@@ -3,8 +3,7 @@
 ## 基于Kinect 2.0 与 Alpha 1s 阿尔法机器人的体感控制开发
 ![Kinect4AlphaRobot logo](https://raw.githubusercontent.com/sixcit/Kinect4AlphaRobot/master/readme-img/logo.jpg)
 
-您好! 我是 **创客机械羊**，[广州创客节](https://maker.6cit.com) 的官方指定吉祥物。^_^
-项目是两位第二届创客成员@Cheman @JYang 完成。
+项目是两位成员@Cheman @JYang 完成。
 
 ### 项目说明
 项目通过Kinect捕捉人体动作数据，通过蓝牙模块控制 Alpha Robot （优必选阿尔法机器人1S）
@@ -139,7 +138,8 @@ tan值的 + 与 –  区域正好可表达角度是大于90度还是小于90度�
 同样道理，当手向前水平合拢时，肩部关节点shoulder基本不变，通过X与Z轴求得手臂在肩部点前后转动的角度，方法与公式就不再详细说明。
 
 #### 勾搭我们
-* QQ：690683755 (非诚勿扰)
+* 源码下载: https://pan.baidu.com/s/1QhgRVvdSvVda4KcqQjuITw 
+* 微信：
 * E-mail：cheman@6cit.com
 
 
