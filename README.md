@@ -138,7 +138,7 @@ tan值的 + 与 –  区域正好可表达角度是大于90度还是小于90度�
 
 #### 勾搭我们
 * 源码下载: https://pan.baidu.com/s/1QhgRVvdSvVda4KcqQjuITw (源码不开源，需付费)
-* 微信：![wechat](https://raw.githubusercontent.com/liuchaowen/Kinect4AlphaRobot/master/readme-img/WechatIMG89.jpeg)
+* 微信：![wechat](https://raw.githubusercontent.com/liuchaowen/Kinect4AlphaRobot/master/readme-img/WechatIMG89_meitu_1.jpg)
 * E-mail：cheman@6cit.com
 
 
